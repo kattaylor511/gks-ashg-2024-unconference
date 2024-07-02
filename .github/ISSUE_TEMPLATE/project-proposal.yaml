@@ -18,10 +18,6 @@ body:
     validations:
       required: false
   - type: textarea
-    id: submitter_additional
-    attributes:
-      label: Additional Submitter Details
-  - type: textarea
     id: project_details
     attributes:
       label: Project Details
