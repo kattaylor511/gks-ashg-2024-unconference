@@ -3,7 +3,7 @@
 Welcome to the repository for GA4GH Genomic Knowledge Standards (GKS) Hackathon.
 
 We will be hosting a hackathon as an ancillary event at [ASHG](https://www.ashg.org/meetings/2024meeting/)
-on Monday, November 4th, 2024. This repository will contain project proposals from 
+on Monday, November 4th, 2024 from 8 AM - 4 PM. This repository will contain project proposals from 
 registered hackathon participants. More details will be made available on this page 
 closer to the event dates.
 
