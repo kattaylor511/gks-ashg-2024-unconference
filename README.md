@@ -8,6 +8,10 @@ Denver at Colorado Convention Center in room Mineral A. This repository will con
 project proposals from registered unconference participants. More details will be made 
 available on this page closer to the event dates.
 
+## Application
+
+We are requesting interested participants to fill out [this](https://forms.gle/rxMpxkcny3LSXBeBA) application form. The application will close on Monday, October 14th at 8 AM EST. Applicants will be notified via email of the decision of their application by Friday, October 18th. We look forward to your potential participation!
+
 ## Getting involved
 
 Check out the repository [proposal tracker](https://github.com/ga4gh/gks-ashg-2024-unconference/issues) 
