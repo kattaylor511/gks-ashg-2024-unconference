@@ -10,7 +10,7 @@ available on this page closer to the event dates.
 
 ## Application
 
-We are requesting interested participants to fill out [this](https://forms.gle/rxMpxkcny3LSXBeBA) application form. The application will close on Monday, October 14th at 8 AM EST. Applicants will be notified of the decision regarding their application via email by Friday, October 18th. We look forward to your potential participation!
+We are requesting interested participants to fill out [this](https://forms.gle/DE7sMXLUCzHQhaJx6) application form. The application will close on Monday, October 14th at 8 AM EST. Applicants will be notified of the decision regarding their application via email by Friday, October 18th. We look forward to your potential participation!
 
 ## Getting involved
 
