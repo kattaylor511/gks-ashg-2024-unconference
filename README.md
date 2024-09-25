@@ -19,8 +19,8 @@ To ensure meaningful collaboration, we will prioritize applicants who are commit
 making ongoing contributions or highly viable projects and tools that can scale and help
 drive broader adoption of GKS products across the community.
 
-**The application will close on Monday, October 14th at 8 AM EST.** Applicants will be
-notified of the decision regarding their application via email by Friday, October 18th.
+**The application will close on Wednesday, October 2nd.** Applicants will be
+notified of the decision regarding their application via email by Friday, October 4th.
 We look forward to your potential participation!
 
 ## Project Proposals
