@@ -10,11 +10,11 @@ proposals from registered unconference participants.
 
 ## Participation Application and Selection
 
-Due to the limited number of spaces, we require all interested participants to fill
-out [this](https://forms.gle/DE7sMXLUCzHQhaJx6) application form. Only those who
-complete the form will be eligible to participate. Spots will be allocated on a 
-first-come, first-served basis, so please submit your application ASAP to secure your
-spot. You will be notified via email within 1-3 business days if you've secured a spot.
+We have 16 spots left and **registration is free!**. Spots will be allocated on a 
+first-come, first-served basis. Please fill out 
+[this](https://forms.gle/DE7sMXLUCzHQhaJx6) application form ASAP to secure your spot. 
+Only those who complete the form will be eligible to participate. You will be notified 
+via email within 1-3 business days if you've secured a spot. We'd love to see you there!
 
 ## Project Proposals
 
