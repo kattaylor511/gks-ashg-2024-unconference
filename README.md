@@ -40,17 +40,17 @@ proposals that generate the most interest and engagement.
 
 | Time | Activity |
 | ---- | -------- |
-| 07:45 - 08:00 | Meet |
-| 08:00 - 08:15 | Welcome & intros |
-| 08:15 - 08:35 | Project proposals |
-| 08:35 - 08:45 | Self-assortment into projects |
-| 08:45 - 11:45 | Work on projects |
-| 11:45 - 12:45 | Lunch |
-| 12:45 - 14:15 | Work on projects |
-| 14:15 - 14:30 | Break |
-| 14:30 - 15:30 | Work on projects |
-| 15:30 - 16:00 | Wrap up & early success stories |
-| 16:00 - 18:00 | Break / transit |
+| 08:00 - 08:30 | Coffee & connections |
+| 08:30 - 08:45 | Welcome & intros |
+| 08:45 - 09:05 | Project proposals |
+| 09:05 - 09:15 | Self-assortment into projects |
+| 09:15 - 12:15 | Work on projects |
+| 12:15 - 13:15 | Lunch |
+| 13:15 - 14:45 | Work on projects |
+| 14:45 - 15:00 | Break |
+| 15:00 - 16:00 | Work on projects |
+| 16:00 - 16:30 | Wrap up & early success stories |
+| 16:30 - 18:00 | Break / transit |
 | 18:00 - 21:00 | Dinner at [The Cheesecake Factory](https://g.co/kgs/EDYbxbX) |
 
 ## Questions?
