@@ -10,7 +10,7 @@ proposals from registered unconference participants.
 
 ## Participation Application and Selection
 
-We have 16 spots left and **registration is free!**. Spots will be allocated on a
+We have 16 spots left and **registration is free!** Spots will be allocated on a
 first-come, first-served basis. Please fill out
 [this](https://forms.gle/DE7sMXLUCzHQhaJx6) application form ASAP to secure your spot.
 Only those who complete the form will be eligible to participate. You will be notified
