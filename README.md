@@ -36,7 +36,7 @@ Each proposal will have 1-2 minutes at the start of the unconference to give a b
 brief pitch. After the pitches, we will break off into smaller groups to focus on the
 proposals that generate the most interest and engagement.
 
-## Tentative Schedule
+## Schedule
 
 | Time | Activity |
 | ---- | -------- |
